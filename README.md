@@ -8,7 +8,7 @@ Bot works in Telegram: [@MK_kitty_bot](https://t.me/MK_kitty_bot)
 
 <p style="text-align:center;"><img src="img_1.png" alt="Kittybot" width="500">
 
-### Welcome to Kittybot - a Telegram bot which sends random cat images, shows current time, shows your IP info, gives random integer digit.</p>
+### Welcome to Kittybot - a Telegram bot which sends random cat images, shows current time in GMT+3:00, shows your IP info, gives random integer digit.</p>
 
 **Commands:**
 
@@ -16,11 +16,11 @@ Bot works in Telegram: [@MK_kitty_bot](https://t.me/MK_kitty_bot)
 
 **/newcat** - sends random cat image
 
-**/time** - shows current time
+**/time** - shows current GMT+3:00 time
 
 **/ip** - shows IP info (if provided after command, i.e. "**_/ip 111.111.111.111_**")
 
-**/random_digit** - gives random integer digit.
+**/random_digit** - gives random integer digit in range from 1 to 10.
 <br>
 <hr>
 
