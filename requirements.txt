@@ -15,5 +15,5 @@ wheel~=0.43.0
 Pillow~=9.3.0
 tomli~=2.0.1
 colorama~=0.4.6
-setuptools~=57.5.0
+setuptools>=78.1.0
 telebot~=0.0.5
